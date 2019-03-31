@@ -1,0 +1,20 @@
+Fri Mar 15 14:56:17 2019 --- Server not started properly
+Fri Mar 15 14:56:27 2019 --- Server not started properly
+Fri Mar 15 14:56:34 2019 --- Server not started properly
+Fri Mar 15 15:09:08 2019 --- Server not started properly
+Sat Mar 16 22:29:02 2019 --- Server not started properly
+Sat Mar 16 23:17:16 2019 --- Server not started properly
+Sun Mar 17 00:07:15 2019 --- Server not started properly
+Sun Mar 17 00:33:16 2019 --- Socket Binding Failed
+Sun Mar 17 00:41:40 2019 --- Socket Binding Failed
+Sun Mar 17 00:52:43 2019 --- Socket Binding Failed
+Sun Mar 17 02:23:52 2019 --- Server not started properly
+Mon Mar 18 20:01:40 2019 --- Server not started properly
+Mon Mar 18 22:18:54 2019 --- Unauthorized access for the user - neelabh 
+Tue Mar 19 22:45:24 2019 --- Server not started properly
+Tue Mar 19 22:45:56 2019 --- Unauthorized access for the user - harshit 
+Wed Mar 20 01:41:18 2019 --- Unauthorized access for the user - abhishek 
+Wed Mar 20 18:12:59 2019 --- Server not started properly
+Wed Mar 20 18:18:59 2019 --- Unauthorized access for the user - neelabh 
+Wed Mar 20 19:21:04 2019 --- Unauthorized access for the user - uddeshya 
+Wed Mar 20 19:30:50 2019 --- Server not started properly
